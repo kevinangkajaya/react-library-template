@@ -44,11 +44,11 @@
 A template for react library.
 
 ### Installing as a package
-`npm install @YOUR_GITHUB_USERNAME/{name_of_the_package}`
+`npm install @YOUR_GITHUB_USERNAME/NAME_OF_THE_PACKAGE`
 
 ### Usage
 ```
-import { Library } from "@YOUR_GITHUB_USERNAME/{name_of_the_package}"
+import Library from "@YOUR_GITHUB_USERNAME/NAME_OF_THE_PACKAGE"
 
 return(
     <Library testing={"This is for testing"} doYouUnderstand={true} />
